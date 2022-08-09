@@ -1,0 +1,19 @@
+{
+    "name": "sohel/contact",
+    "description": "This will send sms to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sohel\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sohel",
+            "email": "sohel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
